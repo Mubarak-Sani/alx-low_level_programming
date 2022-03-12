@@ -8,7 +8,14 @@
  */
 int main(void)
 {
-    char str = 'abcdefghijklmnopqrstuvwxyz';
+    char c = 'a';
+    
+    while (c <= 'z')
+    {
+        putchar(c);
+        c++;
+    }
+    putchar('\n');
 
-    putchar(str);
+    return (0);
 }
