@@ -8,15 +8,13 @@
 int main(void)
 {
 	int i;
+	char c;
 
 	for (i = 0; i < 10; i++)
 	{
 		putchar(i + '0');
 	}
-
-	int c = 'a';
-
-	while (c <= 'f')
+	for (c = 'a'; c <= 'g'; c++)
 	{
 		putchar(c);
 		c++;
