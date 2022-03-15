@@ -6,7 +6,7 @@
  * Return: Always 0.
  */
 
-/* function printing all the alphabet from a - z */
+// function printing all the alphabet from a - z
 void print_alphabet(void)
 {
 	/* declarations of alphabet variable */
