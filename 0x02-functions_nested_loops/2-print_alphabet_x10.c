@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * main - nested_loops
- * Description - print alphabet
+ *print_alphabet_x10 - print alpha x10
+ *@void: no arguments.
  *
- * Return: no return value
+ *Return: no return value.
  */
 void print_alphabet_x10(void)
 {
