@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _islower - checks for lower cases letters
- * @brief: input.
+ * @c: input.
  *
- * Return 1 if c is lowercase.
+ *Return 1 if c is lowercase.
  * 0 if anything else
  */
 
