@@ -6,7 +6,6 @@
  *
  * Return: no return value
  */
-/* function printing all the alphabet from a - z */
 void print_alphabet_x10(void)
 {
 	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
