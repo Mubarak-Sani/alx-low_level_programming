@@ -9,6 +9,7 @@
 /* function printing all the alphabet from a - z */
 void print_alphabet(void)
 {
+	/* declarations of alphabet variable */
 	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
