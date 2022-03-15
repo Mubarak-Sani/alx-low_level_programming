@@ -5,7 +5,6 @@
  * description - a function that prints alphabet
  * Return: Always 0.
  */
-
 void print_alphabet(void)
 {
 	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
