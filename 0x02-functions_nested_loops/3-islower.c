@@ -7,7 +7,7 @@
  * 0 if anything else
  */
 
-int _islower(c)
+int _islower(int c)
 {
     if (c >= 'a' && c <= 'z')
     {
