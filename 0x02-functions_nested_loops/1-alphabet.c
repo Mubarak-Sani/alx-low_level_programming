@@ -6,9 +6,9 @@
  * Return: Always 0.
  */
 
+/* function printing all the alphabet from a - z */
 void print_alphabet(void)
 {
-	/* function printing all the alphabet from a -z */
 	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
