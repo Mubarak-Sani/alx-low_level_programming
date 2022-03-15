@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- * description - a function that prints alphabet
+ * Description - a function that prints alphabet
  * Return: Always 0.
  */
 void print_alphabet(void) /* declarations of alphabet variable */

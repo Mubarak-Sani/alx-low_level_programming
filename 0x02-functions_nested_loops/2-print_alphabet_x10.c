@@ -2,7 +2,7 @@
 
 /**
  * main - nested_loops
- * description - print alphabet
+ * Description - print alphabet
  *
  * Return: no return value
  */
