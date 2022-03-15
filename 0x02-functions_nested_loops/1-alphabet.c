@@ -1,18 +1,16 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  *print_alphabet - abcd
  *Description: print lowercase alphabet
  *Return: void.
  */
-void print_alphabet(void) /* declarations of alphabet variable */
+void print_alphabet(void)
 {
-	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
-	int i;
-
-	for (i = 0; i < 26; i++)
+char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
+int i;
+for (i = 0; i < 26; i++)
 {
-	_putchar(alphabet[i]);
+_putchar(alphabet[i]);
 }
-	_putchar('\n');
+_putchar('\n');
 }

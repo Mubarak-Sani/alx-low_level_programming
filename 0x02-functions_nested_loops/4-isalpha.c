@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  *_isalpha - check for uppercase letters
  *@c: input.
@@ -18,4 +18,3 @@ else
 return (0);
 }
 }
-
