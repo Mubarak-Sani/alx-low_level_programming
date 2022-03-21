@@ -1,8 +1,12 @@
 #include "main.h"
 /**
- *swap_int - swap value of two ints.
- *@a: pointer to one int.
- *@b: pointer to second int.
+ *_strlen - prints the length of a string.
+ *@s: string passed to the function.
  *
  *Return: void.
  */
+
+void _strlen(char *s)
+{
+    strlen(*s);
+}
