@@ -18,7 +18,7 @@ void print_rev(char *s)
 	last = length - 1;
 	for (; last >= 0; last--)
 	{
-		puts(s[last]);
+		printf("%d", s[last]);
 	}
-	puts('\n');
+	printf('\n');
 }
