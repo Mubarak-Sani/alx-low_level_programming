@@ -1,3 +1,11 @@
+#include "main.h"
+/**
+ * puts - prints a string in reverse
+ * 
+ * @str: pointer to the string
+ * 
+ * Return: void
+ */
 void puts2(char *str)
 {
 	int i;
