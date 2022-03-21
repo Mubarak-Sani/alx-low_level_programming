@@ -2,7 +2,7 @@
 /**
  * print_rev - prints string in reverse.
  * @s: pointer to string
- * 
+ *
  * Return: void.
  */
 void print_rev(char *s)
@@ -14,7 +14,6 @@ void print_rev(char *s)
 	{
 		length++;
 	}
-
 	last = length - 1;
 	for (; last >= 0; last--)
 	{
